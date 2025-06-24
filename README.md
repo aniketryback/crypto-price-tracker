@@ -16,8 +16,4 @@ Track live cryptocurrency prices (e.g., Bitcoin) over time using the CoinGecko A
 
 ## 📦 Project Structure
 
-crypto-price-tracker/
-  -tracker.py ← Main script
-  -price_history.csv ← Tracked prices
---output/
-  -price_trend.png ← Auto-generated chart
+<pre> <code> ``` crypto-price-tracker/ ├── tracker.py ← Main script ├── price_history.csv ← Tracked prices └── output/ └── price_trend.png ← Auto-generated chart ``` </code> </pre>
